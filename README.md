@@ -1,6 +1,9 @@
 # Bakery System
 
-The DeliciousDesignPatterns project demonstrates how to implement various design patterns in Java. The project uses a bakery system as the context, showcasing how these patterns can be applied to solve common design problems. The following design patterns are implemented :
+The DeliciousDesignPatterns project demonstrates how to implement various design patterns in Java. The project uses a bakery system as the context, showcasing how these patterns can be applied to solve common design problems. 
+
+
+## Design Patterns Implemented
 
 
 - **Behavioral Design Patterns**
