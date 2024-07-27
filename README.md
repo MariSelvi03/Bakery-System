@@ -15,6 +15,13 @@ The DeliciousDesignPatterns project demonstrates how to implement various design
   - Adapter Pattern
   - Decorator Pattern
 
+
+## Prerequisites
+
+- Java Development Kit (JDK) 8 or higher
+- An IDE like Eclipse or IntelliJ IDEA
+
+
 ## Classes Overview
 
 - Observer Pattern: Bakery.java, Customer.java, Observer.java
